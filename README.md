@@ -19,7 +19,11 @@
 - **Make Fit Simple (DFH Fitness)**  
   Fitness app for postpartum women with subscriptions, video streaming, recipe DB, and weight tracking.  
   - [Google Play](https://play.google.com/store/apps/details?id=com.deliciouslyfitnhealthy.makefitsimple)  
-  - [App Store](https://apps.apple.com/in/app/make-fit-simple/id1664954162)  
+  - [App Store](https://apps.apple.com/in/app/make-fit-simple/id1664954162)
+
+- **RatNawnAI App**  
+    RatNawnAI is so amazing app! It generates very realistic photos of models wearing the exact clothes user uploads Using AI.  
+  - [Google Play](https://play.google.com/store/apps/details?id=com.ratnawnai.RatNawnAI&hl=en)   
 
 - **Whitdeal**  
   Location-based deal discovery app for Whitsunday Island. Free to users, monetized via business subscription.  
