@@ -26,7 +26,9 @@
   - [Google Play](https://play.google.com/store/apps/details?id=com.ratnawnai.RatNawnAI&hl=en)   
 
 - **Whitdeal**  
-  Location-based deal discovery app for Whitsunday Island. Free to users, monetized via business subscription.  
+  Location-based deal discovery app for Whitsunday Island. Free to users, monetized via business subscription.
+  - [Google Play](https://play.google.com/store/apps/details?id=au.com.endlessoceans.whitdeals&hl=en_IN)  
+  - [App Store](https://apps.apple.com/au/app/whitdeals/id6741569608)
 
 ---
 
