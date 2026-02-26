@@ -163,7 +163,6 @@ I care deeply about **clean architecture**, **scalable systems**, and shipping p
 
 **Let's build something great together.**
 
-[![Email Me](https://img.shields.io/badge/Email_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:saransh12301677@gmail.com)
 [![Connect on LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/saransh-gautam-01b873192/)
 
 </div>
