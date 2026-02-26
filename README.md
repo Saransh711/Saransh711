@@ -132,10 +132,6 @@ I care deeply about **clean architecture**, **scalable systems**, and shipping p
 
 <div align="center">
 
-![Saransh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Saransh711&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Saransh711&layout=compact&theme=tokyonight&hide_border=true)
-
 ![GitHub Streak](https://streak-stats.demolab.com/?user=Saransh711&theme=tokyonight&hide_border=true)
 
 </div>
