@@ -154,7 +154,7 @@ I care deeply about **clean architecture**, **scalable systems**, and shipping p
 
 | Document | Link |
 |---|---|
-| 📄 Resume (PDF) | [View Resume](assets/saransh_resume2.pdf) |
+| 📄 Resume (PDF) | [View Resume](assets/saransh_resume3.pdf) |
 | 🗂️ Portfolio (PDF) | [View Portfolio](assets/Mobile_app_portfolio.pdf) |
 
 ---
