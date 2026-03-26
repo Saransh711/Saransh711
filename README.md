@@ -105,6 +105,8 @@ I care deeply about **clean architecture**, **scalable systems**, and shipping p
 - Built with **Flutter + Firebase + AI/ML APIs**
 - Real-time AI generation with clean, intuitive mobile UX
 - [![Google Play](https://img.shields.io/badge/Google_Play-414141?style=flat-square&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=com.ratnawnai.RatNawnAI&hl=en_IN)
+[![App Store](https://img.shields.io/badge/App_Store-0D96F6?style=flat-square&logo=app-store&logoColor=white)](https://apps.apple.com/us/app/ratnawnai/id6756235997)
+
 
 ---
 
