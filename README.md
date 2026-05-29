@@ -22,7 +22,7 @@ Currently at **TechRelieve**, I lead the development of an **AI-powered SaaS pla
 
 I care deeply about **clean architecture**, **scalable systems**, and shipping products that solve real problems.
 
-- 🏢 **Current Role:** Senior SDE & Tech Lead @ TechRelieve *(Oct 2025 – Present)*
+- 🏢 **Current Role:** Senior SDE & Tech Lead @ TechRelieve *(Oct 2025 – March 2026)*
 - 🏗️ **Stack:** Flutter · React Native · Node.js · Express.js · MongoDB · TypeScript · Firebase
 - 👥 **Leadership:** Leading cross-functional engineering teams, code reviews, architecture decisions
 - 🚀 **Shipped:** Apps live on both the App Store and Google Play with real users and revenue
