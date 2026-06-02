@@ -18,7 +18,7 @@
 
 I'm a **Senior Software Development Engineer and Tech Lead** with **5+ years** of experience building and shipping production-grade mobile and full-stack applications across iOS and Android.
 
-Currently at **TechRelieve**, I lead the development of an **AI-powered SaaS platform** for image and video generation — owning everything from system architecture and backend APIs to Flutter frontend and team delivery.
+At **TechRelieve**, I led the development of an **AI-powered SaaS platform** for image and video generation — owning everything from system architecture and backend APIs to Flutter frontend and team delivery.
 
 I care deeply about **clean architecture**, **scalable systems**, and shipping products that solve real problems.
 
@@ -65,7 +65,7 @@ I care deeply about **clean architecture**, **scalable systems**, and shipping p
 ## 💼 Experience
 
 ### 🏢 TechRelieve — *Senior Software Development Engineer (Tech Lead)*
-`Oct 2025 – Present` · Remote
+`Oct 2025 – March 2026` · Remote
 
 > Leading Flutter + MERN stack product development for an AI-powered SaaS platform that lets businesses generate images and videos on demand.
 
