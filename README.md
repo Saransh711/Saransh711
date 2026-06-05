@@ -135,7 +135,7 @@ I care deeply about **clean architecture**, **scalable systems**, and shipping p
 
 <div align="center">
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=Saransh711&theme=tokyonight&hide_border=true)
+![My GitHub Streak](https://github.com/Saransh711/github-streaks/blob/main/assets/Streaks/streak-ocean.svg?raw=true)
 
 </div>
 
