@@ -5,7 +5,7 @@
 ### Senior SDE · Tech Lead · Flutter · React Native · MERN Stack
 
 [![Email Me](https://img.shields.io/badge/Email_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:saransh12301677@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/saransh-gautam)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/saransh-gautam-01b873192/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=google-chrome&logoColor=white)](https://saransh-portfolio.lovable.app/)
 [![Location](https://img.shields.io/badge/Shimla%2C%20HP-1B3A5C?style=flat-square&logo=googlemaps&logoColor=white)](#)
 [![Phone](https://img.shields.io/badge/+91%2063615%2033121-25D366?style=flat-square&logo=whatsapp&logoColor=white)](#)
